@@ -1,7 +1,3 @@
-;Student Name: Paul Tang
-;Course : CPSC 240
-; Data: October 24, 2019
-; Midterm Program
 
 extern printf
 
