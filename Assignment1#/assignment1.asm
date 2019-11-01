@@ -5,7 +5,7 @@ extern scanf
 section .data
 	input_format		db "%d", 0
 	
-	start_prompt		db "This program was built by Zhiyuan Tang(Paul Tang).", 10, 0
+	start_prompt		db "This program was built by Your name.", 10, 0
 	input_prompt_1		db "Please enter the first integer: ", 0
 	output_prompt_1		db "You entered: %d", 10, 0
 	
