@@ -1,6 +1,3 @@
-;author name:fanghua gu
-;course id:cpsc 240
-;The assignment number:Assignment 4
 
 global Sum
 extern printf
