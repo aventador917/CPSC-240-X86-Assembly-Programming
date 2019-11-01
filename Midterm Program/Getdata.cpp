@@ -1,11 +1,3 @@
-/*
-    Paul Tang
-
-    CPSC 240
-    October 24, 2019
-
-    Midterm Program
-*/
 
 #include<iostream>
 
