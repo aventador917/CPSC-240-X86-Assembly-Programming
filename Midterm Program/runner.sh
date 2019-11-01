@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#Student Name: Paul Tang
-#Course : CPSC 240
-# October 24, 2019
-# Midterm Program
 
 #echo "Assemble the X86 file Manage.asm"
 nasm -f elf64 -l Manage.lis -o Manage.o Manage.asm
