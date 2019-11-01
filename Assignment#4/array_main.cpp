@@ -22,7 +22,7 @@ char * inttohex(int aa)
 int main(){
   char*hex_str;
   int Total = Control();
-  printf("This programmnig is made by Fanghua Gu\n");
+  printf("This programmnig is made by Your Name\n");
   printf("The author is an avid fan of multilingual program and assembly programming\n");
   hex_str = inttohex(Total);
   string result = string(hex_str);
